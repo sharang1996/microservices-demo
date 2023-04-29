@@ -20,7 +20,7 @@ public class TwitterToKafkaServiceApplication implements CommandLineRunner {
     }
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringBootApplication.class, args);
+        SpringApplication.run(TwitterToKafkaServiceApplication.class, args);
     }
 
     @PostConstruct

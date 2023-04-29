@@ -10,3 +10,17 @@
 2023-01-16 20:36:09 [main] INFO  d.s.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.17 on Sharangs-MBP.broadband with PID 2185 (/Users/sharang/Code/microservices-demo/twitter-to-kafka-service/target/classes started by sharang in /Users/sharang/Code/microservices-demo)
 2023-01-16 20:36:09 [main] INFO  d.s.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
 2023-01-16 20:36:09 [main] INFO  d.s.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.248 seconds (JVM running for 0.545)
+2023-04-29 11:03:27 [main] INFO  d.s.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.3 on Sharangs-MBP-2.broadband with PID 986 (/Users/sharang/Code/microservices-demo/twitter-to-kafka-service/target/classes started by sharang in /Users/sharang/Code/microservices-demo)
+2023-04-29 11:03:27 [main] INFO  d.s.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-04-29 11:03:27 [main] INFO  d.s.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2023-04-29 11:03:27 [main] INFO  d.s.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-04-29 11:03:27 [main] INFO  d.s.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.545 seconds (JVM running for 0.81)
+2023-04-29 11:03:27 [main] INFO  d.s.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2023-04-29 11:03:27 [main] INFO  d.s.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-04-29 11:03:55 [main] INFO  d.s.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.17 on Sharangs-MBP-2.broadband with PID 994 (/Users/sharang/Code/microservices-demo/twitter-to-kafka-service/target/classes started by sharang in /Users/sharang/Code/microservices-demo)
+2023-04-29 11:03:55 [main] INFO  d.s.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-04-29 11:03:55 [main] INFO  d.s.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2023-04-29 11:03:55 [main] INFO  d.s.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-04-29 11:03:55 [main] INFO  d.s.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.498 seconds (JVM running for 0.89)
+2023-04-29 11:03:55 [main] INFO  d.s.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2023-04-29 11:03:55 [main] INFO  d.s.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
